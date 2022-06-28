@@ -10,7 +10,7 @@
 <code><img height="40" src="https://github.com/sskumargan/sskumargan/blob/main/images/go.png"></code>
 <code><img height="40" src="https://github.com/sskumargan/sskumargan/blob/main/images/net.png"></code>
 <code><img height="40" src="https://github.com/sskumargan/sskumargan/blob/main/images/sql.png"></code>
-<code><img height="40" width="60" src="https://github.com/sskumargan/sskumargan/blob/main/images/wpf.png"></code>
+<code><img height="40" src="https://github.com/sskumargan/sskumargan/blob/main/images/wpf.png"></code>
 
 
 <!--
