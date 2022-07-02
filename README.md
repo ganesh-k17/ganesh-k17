@@ -12,17 +12,14 @@
 <code><img height="40" src="https://github.com/sskumargan/sskumargan/blob/main/images/sql.png"></code>
 <code><img height="40" src="https://github.com/sskumargan/sskumargan/blob/main/images/wpf.png"></code>
 
-<div>
   <a href="https://github-readme-stats.vercel.app/api?username=sskumargan&count_private=true&show_icons=true&theme=chartreuse-dark">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sskumargan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
   </a>
-</div>
-<div/>
-<div>
+
   <a href="https://github.com/sskumargan">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sskumargan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
   </a>
-</div>
+
 
 <!--
 **sskumargan/sskumargan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
