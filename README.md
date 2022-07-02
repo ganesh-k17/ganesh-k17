@@ -24,6 +24,8 @@
  
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sskumargan&theme=default)
   
+  <div class="v-image__image v-image__image--cover" style="background-image: url(&quot;https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&amp;theme=default&quot;); background-position: center center;"></div>
+  
 <!--
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=default&utcOffset=8)
