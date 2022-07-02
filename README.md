@@ -22,12 +22,12 @@
   
  **Summary:**  
  
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sskumargan&theme=default)
   
 <!--
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=default&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 **sskumargan/sskumargan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
