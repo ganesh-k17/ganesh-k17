@@ -17,7 +17,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=sskumargan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
   </a>
 </div>
-
+<div/>
 <div>
   <a href="https://github.com/sskumargan">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sskumargan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
