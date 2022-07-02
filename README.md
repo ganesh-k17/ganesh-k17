@@ -20,6 +20,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sskumargan&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
   </a> 
   
+ **Summary:**  
+ 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
   
 <!--
